@@ -20,7 +20,7 @@
 <br />
 <br />
 
-[gmail]: https://mailto:iliyas.abduali@gmail.com
+[gmail]: mailto:iliyas.abduali@gmail.com
 [telegram]: https://t.me/IliyasAbduali
 [twitter]: https://twitter.com/DoctorIsMad
 [linkedIn]: https://www.linkedin.com/in/maddoctor/
