@@ -15,7 +15,7 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadoDoctor&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadoDoctor&show_icons=true&theme=merko)
 
 <br />
 <br />
