@@ -1,7 +1,7 @@
 ### Hi there, I'm Iliyas - aka MadoDoctor
 
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning SQL
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
