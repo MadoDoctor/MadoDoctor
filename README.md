@@ -22,7 +22,7 @@
 <br />
 
 [gmail]: mailto:iliyas.abduali@gmail.com
-[telegram]: https://t.me/IliyasAbduali
+[telegram]: https://t.me/MadoDoctor
 [twitter]: https://twitter.com/DoctorIsMad
 [linkedIn]: https://www.linkedin.com/in/maddoctor/
-[bot]: https://t.me/TransliteratingBot
+[bot]: https://t.me/TextStylesBot
