@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning SQL
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
